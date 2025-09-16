@@ -34,7 +34,7 @@
 
   <p align="center">
   <a href="photos/demo.gif">
-    <img src="photos/demo.gif" width="300" />
+    <img src="photos/demo.gif" width="250" />
   </a>
 </p>
   
