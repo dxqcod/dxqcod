@@ -33,8 +33,8 @@
 - telegramm бот отправляющий пользователб свежий анекдот. Сделаем визуальные эффекты для тематического обновления страницы  [👻 Ghostbusters ](https://github.com/dxqcod/telegram-jokes-bot)
 
   <p align="center">
-  <a href="photos/ghostbusters.png">
-    <img src="photos/ghostbusters.png" width="300" />
+  <a href="photos/demo.gif">
+    <img src="photos/demo.gif" width="300" />
   </a>
 </p>
   
