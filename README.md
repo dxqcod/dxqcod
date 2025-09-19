@@ -6,7 +6,7 @@
 
   <p align="center">
   <a href="https://github.com/dxqcod/meshtastic-gpio">
-    <img src="photos/Meshtastic-diagram_.png" width="300" />
+    <img src="photos/Meshtastic-diagram3.png" width="300" />
   </a>
 </p>
   
