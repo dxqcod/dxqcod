@@ -2,7 +2,7 @@
 Потихоньку вспоминаю и записываю то, что уже реализовано. 
 ## Что за проэкты здесь появятся:
 
-- Доработка meshtastic для управления внешеними устройствами - [meshtastic](https://github.com/dxqcod/meshtastic-gpio)
+- Доработка meshtastic для управления внешеними устройствами через GPIO- [meshtastic](https://github.com/dxqcod/meshtastic-gpio)
 
   <p align="center">
   <a href="https://github.com/dxqcod/meshtastic-gpio">
