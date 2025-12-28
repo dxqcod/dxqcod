@@ -51,11 +51,11 @@
 </p>
 
 ---
-- Габаритные огни для велосипеда на адресуемых светодиодах  [👻 Ghostbusters ](https://github.com/dxqcod/telegram-jokes-bot)
+- Габаритные огни для велосипеда на адресуемых светодиодах  [👻 Ghostbusters ](https://https://github.com/dxqcod/New-Year-s-bike/tree/main)
 
   <p align="center">
   <a href="https://github.com/dxqcod/telegram-jokes-bot">
-    <img src="photos/demo.gif" width="250" />
+    <img src="photos/seeed-xiao-ble-sense.jpg" width="250" />
   </a>
 </p>
   
