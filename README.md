@@ -49,6 +49,15 @@
     <img src="photos/demo.gif" width="250" />
   </a>
 </p>
+
+---
+- Габаритные огни для велосипеда на адресуемых светодиодах  [👻 Ghostbusters ](https://github.com/dxqcod/telegram-jokes-bot)
+
+  <p align="center">
+  <a href="https://github.com/dxqcod/telegram-jokes-bot">
+    <img src="photos/demo.gif" width="250" />
+  </a>
+</p>
   
 
 <!--
