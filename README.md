@@ -51,10 +51,10 @@
 </p>
 
 ---
-- Габаритные огни для велосипеда на адресуемых светодиодах  [👻 Happy New Year ](https://https://github.com/dxqcod/New-Year-s-bike/tree/main)
+- Габаритные огни для велосипеда на адресуемых светодиодах  [👻 Happy New Year ](https://github.com/dxqcod/New-Year-s-bike/tree/main)
 
   <p align="center">
-  <a href="https://https://github.com/dxqcod/New-Year-s-bike/tree/main">
+  <a href="https://github.com/dxqcod/New-Year-s-bike/tree/main">
     <img src="photos/seeed-xiao-ble-sense.jpg" width="250" />
   </a>
 </p>
