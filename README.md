@@ -54,8 +54,11 @@
 - Габаритные огни для велосипеда на адресуемых светодиодах  [👻 Happy New Year ](https://github.com/dxqcod/New-Year-s-bike/tree/main)
 
   <p align="center">
-  <a href="https://github.com/dxqcod/New-Year-s-bike/tree/main">
-    <img src="photos/seeed-xiao-ble-sense.jpg" width="250" />
+  <a href="docs /photo/demo_seed.gif">
+    <img src="docs /photo/demo_seed.gif" width="200" />
+  </a>
+  <a href="docs /photo/xiaonrf52840sence.png">
+    <img src="docs /photo/xiaonrf52840sence.png" width="400" />
   </a>
 </p>
   
