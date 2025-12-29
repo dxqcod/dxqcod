@@ -58,7 +58,7 @@
     <img src="photos/demo_seed.gif" width="200" />
   </a>
   <a href="https://github.com/dxqcod/New-Year-s-bike">
-    <img src="photos/xiaonrf52840sence.png" width="200" />
+    <img src="photos/xiaonrf52840sence.png" width="150" />
   </a>
 </p>
   
