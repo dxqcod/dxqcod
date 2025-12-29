@@ -51,7 +51,7 @@
 </p>
 
 ---
-- Габаритные огни для велосипеда на адресуемых светодиодах  [🚨 Happy New Year ](https://github.com/dxqcod/New-Year-s-bike)
+- Габаритные огни для велосипеда на адресуемых светодиодах  [🚨 Bike_lights_nRF52840 ](https://github.com/dxqcod/New-Year-s-bike)
 
   <p align="center">
   <a href="https://github.com/dxqcod/New-Year-s-bike">
